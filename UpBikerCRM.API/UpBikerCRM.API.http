@@ -1,0 +1,6 @@
+@UpBikerCRM.API_HostAddress = http://localhost:5118
+
+GET {{UpBikerCRM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
